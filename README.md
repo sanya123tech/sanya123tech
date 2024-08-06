@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sanya123tech<br>👀 I’m interested in programming<br>🌱 I’m currently a engineering graduate from MJCET<br>💞️ I’m looking to collaborate on AI&ML projects<br>📫 How to reach me: begumsaniya393@gmail.com
-
+I'm a passionate data analyst and a machine learning expert who can quickly integrate into the work environment. I'm a person with good communication skills and team work ability. i also know number of programming languages which makes me adaptable and flexible. I am also familar with test automation tools like selenium and cypress
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sanya-begam-036216201) 
